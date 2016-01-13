@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "ftp.nclsmitchell.com",
+    "username": "nclsmitc",
+    "password": "GmanG1pom",
+    "port": "",
+    "remotePath": "www/zen-reading",
+    "uploadOnSave": true
+}
