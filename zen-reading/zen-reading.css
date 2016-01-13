@@ -1,0 +1,57 @@
+body {
+  background-color: #fff !important;
+}
+
+.zen-wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.zen-wrapper h1 {
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 52px;
+  line-height: 1.2;
+  margin: 59px 0;
+}
+
+.zen-wrapper h2 ,.zen-wrapper h3,.zen-wrapper h4 {
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  color: #707070;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 1.6;
+  margin: 39px 0;
+}
+
+.zen-wrapper a {
+  color: #000;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding-bottom: 2px;
+}
+
+.zen-wrapper a:hover {
+  color: #000;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.zen-wrapper p {
+  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  color: #505050;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 1.9;
+  margin-top: 29px;
+}
+
+.zen-wrapper img {
+  max-width: 700px;
+}
+
+.zen-wrapper iframe {
+  width: 700px;
+  margin-top: 39px;
+}
